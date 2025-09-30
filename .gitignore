@@ -4,3 +4,9 @@
 obj/
 bin/
 .vs/
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsidx
